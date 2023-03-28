@@ -14,7 +14,6 @@
   - CSS Typography properties `font-size`, `font-style`, `font-family`, `text-align`, `color`etc
   - CSS Box Model properties `padding`, `margin`, `width`,`border-bottom` etc
 - Linters
-- Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
 - GitHub Action
